@@ -72,7 +72,7 @@ def convert_temperature():
                 print("Exiting the program")
                 quit()
             elif repeat_conversion == "y" or repeat_conversion == "yes":
-                break
+                break   
             else:
                 print("Please enter a correct response.")
 
