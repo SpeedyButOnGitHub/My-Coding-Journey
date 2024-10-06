@@ -23,10 +23,6 @@ def ask_question(question, options, correct_answer):
         print(f"Incorrect, the correct answer is {correct_answer}, {options[correct_answer]}. You have lost 1 point, your current score is: {score}.")
         return False
     
-
-        
-
-
 questions1 = "What is the capital of France? "
 options1 = {
         "A": "London",
