@@ -57,3 +57,4 @@ if score >= 10:
 
 # I know that there's technically no way to get a score of 10 with only two questions and that I don't have to check if the score is higher than 10 until you can actually get 10 points but it's just an example
     
+# Ignore this

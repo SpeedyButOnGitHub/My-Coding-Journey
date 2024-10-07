@@ -137,3 +137,5 @@ def main_menu():
 
 # To start the game
 main_menu()
+
+# Ignore this

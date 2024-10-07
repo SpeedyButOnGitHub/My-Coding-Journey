@@ -22,4 +22,4 @@ if __name__ == "__main__":
     print("Your bmi is:", round(bmi, 2))
     print("You are classified as:", category)
 
-
+# Ignore this
