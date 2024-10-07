@@ -20,3 +20,10 @@ for i = 1, 5, 1 do
     end
 end
 
+for i = 1, 100000 do
+    print("meow")
+    if i == 50 then
+        print("No more meowing")
+        break
+    end
+end
