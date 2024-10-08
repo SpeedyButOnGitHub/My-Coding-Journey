@@ -15,3 +15,7 @@ local menu2 = {
 }
 
 print("$"..menu2.Cheeseburger)
+
+for menuItem, price in pairs(menu) do
+    print(menuItem..": ".. "$"..price)
+end
